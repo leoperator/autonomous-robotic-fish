@@ -3,6 +3,7 @@
 A compact, low-cost robotic fish that mimics biological swimming using servo-actuated fins, modular architecture, and waterproof design. Developed as a lab prototype to explore underwater robotics and biomimicry.
 
 <img width="1025" height="604" alt="image" src="https://github.com/user-attachments/assets/bd1abdc7-0703-4d56-bff3-e757e915e5e7" />
+<img width="665" height="417" alt="image" src="https://github.com/user-attachments/assets/db59e97b-8e6f-440c-a0d8-39a9605e4ea3" />
 <img width="649" height="761" alt="image" src="https://github.com/user-attachments/assets/c51ed1dc-028e-44b7-a259-8817c45a58d5" />
 <img width="671" height="818" alt="image" src="https://github.com/user-attachments/assets/30266385-62cd-432b-8702-751c00d66af5" />
 
